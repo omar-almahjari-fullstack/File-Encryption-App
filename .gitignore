@@ -1,0 +1,13 @@
+# Publish only the portfolio presentation files.
+/*
+!/README.md
+!/.gitignore
+
+# Screenshots displayed in README.md
+!/screenshots/
+!/screenshots/**
+
+# Project logo displayed in README.md
+!/assets/
+!/assets/images/
+!/assets/images/watermark_logo.png
